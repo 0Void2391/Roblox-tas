@@ -32,6 +32,7 @@ local InputBlacklist = {
 	["T"] = true;
 	["F"] = true;
 	["G"] = true;
+	["E"] = true;
 }
 
 -- Color codes for the color code frame
